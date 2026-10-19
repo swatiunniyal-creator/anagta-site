@@ -1,0 +1,28 @@
+.u-section-1 .u-image-1 {
+  min-height: 546px;
+  background-image: url("images/AnagtaFurniture_CraftedforModernLiving.png");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 450px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 345px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 259px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 163px;
+  }
+}
